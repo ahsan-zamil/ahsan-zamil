@@ -4,11 +4,11 @@
   <img src="https://raw.githubusercontent.com/ahsan-zamil/ahsan-zamil/main/images/banner.jpg" alt="Banner" />
 </div>
 
+A passionate Java & Spring Boot Backend Engineer from India. I specialize in building scalable, maintainable backend systems using Java, Spring Boot, and microservices architecture.
+
 ![age](https://img.shields.io/badge/age-22-cyan)
 ![focus](https://img.shields.io/badge/focus-Backend(Java/Spring)-cyan)
 ![living](https://img.shields.io/badge/living-India-cyan)
-
-A passionate Java & Spring Boot Backend Engineer from India. I specialize in building scalable, maintainable backend systems using Java, Spring Boot, and microservices architecture.
 
 - 🌱 I'm currently learning Advanced Microservices Architecture and System Design
 - 👯 I'm looking to collaborate on Backend and Distributed Systems Projects
