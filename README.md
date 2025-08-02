@@ -1,5 +1,3 @@
-# Ahsan Zamil - Backend Developer
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ahsan-zamil/ahsan-zamil/main/images/banner.jpg" alt="Banner" />
 </div>
