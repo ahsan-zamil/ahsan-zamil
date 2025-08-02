@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/ahsan-zamil/ahsan-zamil/main/images/banner.jpg" alt="Banner" />
 </div>
 
+<div align="center">
+  <h1>Hello, I'm Ahsan Zamil 👋 !</h1>
+  <h3>I'm a Backend Developer from India ❤️</h3>
+</div>
+
 A passionate Java & Spring Boot Backend Engineer from India. I specialize in building scalable, maintainable backend systems using Java, Spring Boot, and microservices architecture.
 
 ![age](https://img.shields.io/badge/age-22-cyan)
