@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hello, I'm Ahsan Zamil 👋 !</h1>
+  <h1>Hello, I'm Ahsan Zamil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> !</h1>
   <h3>I'm a Backend Developer from India ❤️</h3>
 </div>
 
