@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](images/banner.jpg)
+![](https://raw.githubusercontent.com/ahsan-zamil/ahsan-zamil/main/images/banner.jpg)
 </div>
 
 <h1 align="center"> Hello, I'm Ahsan Zamil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 👋</h1>
@@ -18,7 +18,7 @@ A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Software Developme
 ![focus](https://img.shields.io/badge/focus-FullStack(MERN)-cyan)
 ![living](https://img.shields.io/badge/living-India-cyan)
 
-<img width="50%" align="right" alt="Github Image" src="./images/path.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/ahsan-zamil/ahsan-zamil/main/images/path.svg" />
 
 - 🌱 I’m currently learning Backend and NextJs
 - 👯 I’m looking to collaborate on Full Stack Projects
